@@ -6,12 +6,15 @@
 
 .console-container {
   display: flex;
+  height: 100vh;
+  width: 100%;
+  align-items: center;
 }
 
 .game-area {
   position: relative;
   display: inline-block;
-  margin: 50px 10px 0 250px;
+  margin: 0 50px 0 250px;
   width: 600px;
   height: 600px;
   /* background-image: url('https://image.ambesonne.com/bound/1200x1200/webp/nev/nev_38877_z.jpg'); */
